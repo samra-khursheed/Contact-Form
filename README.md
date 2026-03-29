@@ -11,8 +11,8 @@ This is a functional contact form designed using HTML and CSS and integrated wit
 The following screenshots demonstrate the functionality and implementation of the project:
 
 ### 1. Form Design (Empty Form)
-![Form Design](form-design-screenshot.jpg)
+![Form Design](Form-Design.png)
 
 
 ### 3. Submission Success (Email Proof)
-![Email Notification Proof](form-test-proof.jpg)
+![Email Notification Proof](Form-test-proof.png)
