@@ -2,7 +2,7 @@
 
 This is a functional contact form designed using HTML and CSS and integrated with Formspree.
 
-🔗 **Live Link:** [View Live Project]( https://samra-khursheed.github.io/Contact-Form/)              
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge)](https://samra-khursheed.github.io/Contact-Form/)             
 
 ## Features
 * Frontend: Responsive and clean design.
